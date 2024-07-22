@@ -11,14 +11,14 @@ namespace TestMyApp_AutoUpdate
         {
             // 设置更新检查频率（例如：每天一次）
             AutoUpdater.CheckForUpdateEvent += AutoUpdaterOnCheckForUpdateEvent;
-            AutoUpdater.Start("https://github.com/lushenchon/TestMyApp_AutoUpdate/blob/master/TestMyApp_AutoUpdate/bin/Debug/update.xml");
+            AutoUpdater.Start("https://github.com/lushenchon/TestMyApp_AutoUpdate/blob/master/update.xml");
 
             // 如果需要设置检查频率，可以使用静态计时器类
             System.Timers.Timer timer = new System.Timers.Timer
             {
                 Interval = 24 * 60 * 60 * 1000 // 每24小时检查一次
             };
-            timer.Elapsed += (sender, args) => AutoUpdater.Start("https://github.com/lushenchon/TestMyApp_AutoUpdate/blob/master/TestMyApp_AutoUpdate/bin/Debug/update.xml");
+            timer.Elapsed += (sender, args) => AutoUpdater.Start("https://github.com/lushenchon/TestMyApp_AutoUpdate/blob/master/update.xml");
             timer.Start();
         }
 
