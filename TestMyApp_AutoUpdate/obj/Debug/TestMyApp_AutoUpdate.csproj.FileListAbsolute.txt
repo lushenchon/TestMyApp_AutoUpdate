@@ -21,3 +21,5 @@ D:\3_Lu\2_Development\C#\AutoUpdate\TestMyApp_AutoUpdate\TestMyApp_AutoUpdate\ob
 D:\3_Lu\2_Development\C#\AutoUpdate\TestMyApp_AutoUpdate\TestMyApp_AutoUpdate\obj\Debug\TestMyApp_AutoUpdate.csproj.CopyComplete
 D:\3_Lu\2_Development\C#\AutoUpdate\TestMyApp_AutoUpdate\TestMyApp_AutoUpdate\obj\Debug\TestMyApp_AutoUpdate.exe
 D:\3_Lu\2_Development\C#\AutoUpdate\TestMyApp_AutoUpdate\TestMyApp_AutoUpdate\obj\Debug\TestMyApp_AutoUpdate.pdb
+D:\3_Lu\2_Development\C#\AutoUpdate\TestMyApp_AutoUpdate\TestMyApp_AutoUpdate\bin\Debug\AutoUpdaterConfig.xml
+D:\3_Lu\2_Development\C#\AutoUpdate\TestMyApp_AutoUpdate\TestMyApp_AutoUpdate\bin\Debug\update.xml

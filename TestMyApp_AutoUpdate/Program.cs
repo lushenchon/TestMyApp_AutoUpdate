@@ -18,12 +18,9 @@ namespace TestMyApp_AutoUpdate
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
 
-            // 配置 AutoUpdater.NET
-            AutoUpdater.Start("https://yourserver.com/updates.xml");
-
-            // 你可以选择在应用启动时检查更新
-            AutoUpdater.CheckForUpdateEvent += AutoUpdaterOnCheckForUpdateEvent;
-            AutoUpdater.Start("https://yourserver.com/updates.xml");
+            // 初始化自动更新
+            AutoUpdaterExample autoUpdater = new AutoUpdaterExample();
+            autoUpdater.ConfigureAutoUpdater();
 
             Application.Run(new Form1());
         }

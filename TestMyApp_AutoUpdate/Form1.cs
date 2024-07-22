@@ -16,5 +16,14 @@ namespace TestMyApp_AutoUpdate
         {
             InitializeComponent();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            // 初始化自动更新
+            AutoUpdaterExample autoUpdater = new AutoUpdaterExample();
+            autoUpdater.ConfigureAutoUpdater();
+        }
+
+
     }
 }
