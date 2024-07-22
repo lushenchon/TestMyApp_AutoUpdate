@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<AutoUpdater>
+	<App>
+		<UpdateURL>https://yourserver.com/updates.xml</UpdateURL>
+		<DownloadURL>https://yourserver.com/updates/</DownloadURL>
+		<ExeName>MyApp.exe</ExeName>
+		<UpdateFileName>update.exe</UpdateFileName>
+	</App>
+</AutoUpdater>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<update>
+	<version>1.0.1</version>
+	<url>https://yourserver.com/updates/update.exe</url>
+	<changelog>Fixed bugs and improved performance.</changelog>
+</update>
