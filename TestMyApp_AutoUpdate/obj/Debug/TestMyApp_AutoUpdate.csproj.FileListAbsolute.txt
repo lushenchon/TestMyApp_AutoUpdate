@@ -13,7 +13,6 @@ D:\3_Lu\2_Development\C#\AutoUpdate\TestMyApp_AutoUpdate\TestMyApp_AutoUpdate\bi
 D:\3_Lu\2_Development\C#\AutoUpdate\TestMyApp_AutoUpdate\TestMyApp_AutoUpdate\bin\Debug\Microsoft.Web.WebView2.Core.xml
 D:\3_Lu\2_Development\C#\AutoUpdate\TestMyApp_AutoUpdate\TestMyApp_AutoUpdate\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
 D:\3_Lu\2_Development\C#\AutoUpdate\TestMyApp_AutoUpdate\TestMyApp_AutoUpdate\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
-D:\3_Lu\2_Development\C#\AutoUpdate\TestMyApp_AutoUpdate\TestMyApp_AutoUpdate\obj\Debug\TestMyApp_AutoUpdate.csproj.AssemblyReference.cache
 D:\3_Lu\2_Development\C#\AutoUpdate\TestMyApp_AutoUpdate\TestMyApp_AutoUpdate\obj\Debug\TestMyApp_AutoUpdate.Form1.resources
 D:\3_Lu\2_Development\C#\AutoUpdate\TestMyApp_AutoUpdate\TestMyApp_AutoUpdate\obj\Debug\TestMyApp_AutoUpdate.Properties.Resources.resources
 D:\3_Lu\2_Development\C#\AutoUpdate\TestMyApp_AutoUpdate\TestMyApp_AutoUpdate\obj\Debug\TestMyApp_AutoUpdate.csproj.GenerateResource.cache
