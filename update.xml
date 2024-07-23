@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<update>
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
 	<version>1.0.2</version>
 	<url>https://github.com/lushenchon/TestMyApp_AutoUpdate/releases/download/v1.0.2/v1.0.2.zip</url>
+	<changelog>https://github.com/ravibpatel/AutoUpdater.NET/releases</changelog>
 	<mandatory>false</mandatory>
-</update>
+</item>
