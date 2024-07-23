@@ -19,28 +19,11 @@ namespace TestMyApp_AutoUpdate
             Application.SetCompatibleTextRenderingDefault(false);
 
             // 初始化自动更新
-            AutoUpdaterExample autoUpdater = new AutoUpdaterExample();
-            autoUpdater.ConfigureAutoUpdater();
+            //AutoUpdaterExample autoUpdater = new AutoUpdaterExample();
+            //autoUpdater.ConfigureAutoUpdater();
 
             Application.Run(new Form1());
         }
 
-        private static void AutoUpdaterOnCheckForUpdateEvent(UpdateInfoEventArgs args)
-        {
-            if (args.IsUpdateAvailable)
-            {
-                // 弹出更新提示
-                DialogResult dialogResult = MessageBox.Show("New version available. Do you want to update now?", "Update Available", MessageBoxButtons.YesNo);
-                if (dialogResult == DialogResult.Yes)
-                {
-                    // 启动更新程序
-                    AutoUpdater.DownloadUpdate(args);
-                }
-            }
-            else
-            {
-                MessageBox.Show("No updates available.");
-            }
-        }
     }
 }
