@@ -18,9 +18,7 @@ namespace TestMyApp_AutoUpdate
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
 
-            // 初始化自动更新
-            //AutoUpdaterExample autoUpdater = new AutoUpdaterExample();
-            //autoUpdater.ConfigureAutoUpdater();
+            
 
             Application.Run(new Form1());
         }
