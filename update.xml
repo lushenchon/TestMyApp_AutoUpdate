@@ -2,6 +2,6 @@
 <item>
 	<version>1.0.3</version>
 	<url>https://github.com/lushenchon/TestMyApp_AutoUpdate/releases/download/v1.0.3/v1.0.3.zip</url>
-	<changelog>https://github.com/ravibpatel/AutoUpdater.NET/releases</changelog>
+	<changelog>https://raw.githubusercontent.com/lushenchon/TestMyApp_AutoUpdate/master/README.md</changelog>
 	<mandatory>false</mandatory>
 </item>
