@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-	<version>1.0.3</version>
-	<url>https://github.com/lushenchon/TestMyApp_AutoUpdate/releases/download/v1.0.3/v1.0.3.zip</url>
-	<changelog>https://github.com/ravibpatel/AutoUpdater.NET/releases</changelog>
+	<version>1.0.4</version>
+	<url>https://github.com/lushenchon/TestMyApp_AutoUpdate/releases/download/v1.0.4/v1.0.4.zip</url>
+	<changelog>https://raw.githubusercontent.com/lushenchon/TestMyApp_AutoUpdate/master/README.md</changelog>
 	<mandatory>false</mandatory>
 </item>
